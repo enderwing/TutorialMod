@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "tutorialmod:block/firstblock",
+        "north": "tutorialmod:block/firstblock_front",
+        "south": "tutorialmod:block/firstblock",
+        "east": "tutorialmod:block/firstblock",
+        "west": "tutorialmod:block/firstblock",
+        "up": "tutorialmod:block/firstblock",
+        "down": "tutorialmod:block/firstblock"
+    }
+}
